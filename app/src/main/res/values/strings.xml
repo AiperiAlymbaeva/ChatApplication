@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Demo Chat Application</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="message">Enter the OTP sent to</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name_verification">Name Verification</string>
+    <string name="start">Start</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="notification_channel_id">highChannel</string>
+    <string name="chat_name">Chat Name</string>
+    <string name="last_message">Last Message</string>
+    <string name="time">Time</string>
+    <string name="hi">Hi</string>
+    <string name="_21_00">21:00</string>
+    <string name="hellooo">Hellooo</string>
+    <string name="contacts">Contacts</string>
+    <string name="chat">Chats</string>
+</resources>

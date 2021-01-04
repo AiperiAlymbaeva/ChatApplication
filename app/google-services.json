@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764910385072",
+    "project_id": "fir-chat-9a2a0",
+    "storage_bucket": "fir-chat-9a2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764910385072:android:723a6362bf64cde7ef0875",
+        "android_client_info": {
+          "package_name": "android.aiperi.demochatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764910385072-8peosu1vld2o555ee4aloitqb4gf6mn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.aiperi.demochatapplication",
+            "certificate_hash": "bc011535af386524f19e65f35e7abaee73414675"
+          }
+        },
+        {
+          "client_id": "764910385072-abskchksb34kgp5mihdhc3po7ll9ramc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1lriw6Y1gJZHB0Dj1UuuXi0327TE0C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764910385072-abskchksb34kgp5mihdhc3po7ll9ramc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
